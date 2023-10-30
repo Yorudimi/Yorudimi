@@ -6,7 +6,7 @@ Sachez que l'Univers, c'est-à-dire moi, n'est autre que du fric. Sinon, pourquo
 
 Félicitation ✨.
 
-Mais je préfèrerai que vous mouriez, car vous contenez actuellement 8g d'or dans votre corps, ce que, en réalité, est un attout franchement (si tant est que cela puisse être possible) non-négligeable.
+Mais je préfèrerais que vous mouriez, car vous contenez actuellement 8g d'or dans votre corps, ce que, en réalité, est un attout franchement (si tant est que cela puisse être possible) non-négligeable.
 
 Et non c'était une blague.
 
