@@ -1,7 +1,7 @@
 # Moa
 C'est un truc qui décrit ce que je suis.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorudimi&show_icons=true&theme=radical)
 
 Je suis du fric.
 
