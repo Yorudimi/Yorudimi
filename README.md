@@ -1,7 +1,7 @@
 # Moa
 C'est un truc qui décrit ce que je suis.
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yorudimi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yorudimi)](https://github.com/anuraghazra/github-readme-stats)
 
 Je suis du fric.
 
